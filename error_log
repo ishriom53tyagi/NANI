@@ -1,0 +1,97 @@
+[18-Sep-2020 14:00:42 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[18-Sep-2020 14:00:42 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[22-Sep-2020 06:19:14 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[26-Oct-2020 18:17:31 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /home1/winglein/public_html/NAANIS/catalog/model/catalog/product.php on line 33
+[26-Oct-2020 18:33:18 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected character ";" in "default/template/product/category.twig" at line 111. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Lexer.php:284
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Lexer.php(216): Twig_Lexer->lexExpression()
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Lexer.php(115): Twig_Lexer->lexVar()
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(581): Twig_Lexer->tokenize('{{ header }}\r\n<...', 'default/templat...')
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(671): Twig_Environment->tokenize('{{ header }}\r\n<...', 'default/templat...')
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(396): Twig_Environment->compileSource('{{ header }}\r\n<...', 'default/templat...')
+#5 /home1/winglein/public_html/NAANIS/system/library/template/twig.php(33): Twig_Environment->loadTemplate('default/temp in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Lexer.php on line 284
+[26-Oct-2020 18:34:49 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unknown "implode" function in "default/template/product/category.twig" at line 111. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php:574
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php(351): Twig_ExpressionParser->getFunctionNodeClass('implode', 111)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php(144): Twig_ExpressionParser->getFunctionNode('implode', 111)
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php(84): Twig_ExpressionParser->parsePrimaryExpression()
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php(41): Twig_ExpressionParser->getPrimary()
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(144): Twig_ExpressionParser->parseExpression()
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(43): Twig_Parser->subpa in /home1/winglein/public_html/NAANIS/system/library/template/Twig/ExpressionParser.php on line 574
+[02-Nov-2020 17:20:37 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endfor" tag (expecting closing tag for the "if" tag defined near line 67) in "__string_template__eb218b2d7c16a9088fefcc75db8afbe78b08dde95c3939426f2ff27b626354f4" at line 70. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619): Twig in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[02-Nov-2020 17:20:42 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endfor" tag (expecting closing tag for the "if" tag defined near line 67) in "__string_template__552c92ef0a45a6816d52c46eafdfc93fd75cf8153b57ebbfd4a48a04423456ec" at line 70. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619): Twig in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[02-Nov-2020 17:20:44 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endfor" tag (expecting closing tag for the "if" tag defined near line 67) in "__string_template__0b9e2c477080762666af1666cf96be8f8bfb8bd8a55b5746cee1ede115152324" at line 70. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619): Twig in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[02-Nov-2020 17:20:45 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endfor" tag (expecting closing tag for the "if" tag defined near line 67) in "__string_template__d2087844cf84a6b7b268f288decff6fcb526f617a73ffce8ed829f971a33d944" at line 70. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619): Twig in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[07-Nov-2020 06:52:12 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endif" tag (expecting closing tag for the "for" tag defined near line 355) in "__string_template__a8ee8ce56737f43ca5b528a6334bbc225b7d8021aa93ff0c5bd63a8910872fdd" at line 402. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_For->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619):  in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[07-Nov-2020 06:52:16 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endif" tag (expecting closing tag for the "for" tag defined near line 355) in "__string_template__eb9994a980e562eb519b9ef90e65f92db464cb86111265656c22bc32a74975e5" at line 402. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_For->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619):  in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172
+[07-Nov-2020 06:52:48 UTC] PHP Fatal error:  Uncaught Twig_Error_Syntax: Unexpected "endif" tag (expecting closing tag for the "for" tag defined near line 355) in "__string_template__a7eab72a06fe52815be623fcf62d939e65af4ab501f881c7f064cfb06dbdca9d" at line 402. in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php:172
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/For.php(40): Twig_Parser->subparse(Array)
+#1 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_For->parse(Object(Twig_Token))
+#2 /home1/winglein/public_html/NAANIS/system/library/template/Twig/TokenParser/If.php(34): Twig_Parser->subparse(Array)
+#3 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(187): Twig_TokenParser_If->parse(Object(Twig_Token))
+#4 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php(100): Twig_Parser->subparse(NULL, false)
+#5 /home1/winglein/public_html/NAANIS/system/library/template/Twig/Environment.php(619):  in /home1/winglein/public_html/NAANIS/system/library/template/Twig/Parser.php on line 172

@@ -1,0 +1,203 @@
+[13-Aug-2020 10:07:53 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 10:07:55 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 10:07:57 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 10:07:57 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 10:08:03 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 11:08:04 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[13-Aug-2020 23:02:19 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[13-Aug-2020 23:02:19 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[13-Aug-2020 23:02:19 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2020 02:54:07 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2020 02:54:07 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2020 02:54:07 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2020 02:54:07 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[14-Aug-2020 02:54:07 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[18-Aug-2020 16:33:06 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 06:36:01 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[19-Aug-2020 17:21:27 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[19-Aug-2020 17:22:02 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[19-Aug-2020 17:22:18 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[20-Aug-2020 06:08:59 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2020 06:08:59 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2020 06:08:59 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2020 06:08:59 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[30-Aug-2020 09:00:28 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[30-Aug-2020 09:00:28 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:32:57 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 06:43:24 America/Boise] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Aug-2020 13:58:52 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[31-Aug-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#1 /home1/winglein/public_html/NAANIS/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'winglein_nannis', 'Azhar@321#', 'winglein_nannis', '3306')
+#2 /home1/winglein/public_html/NAANIS/system/startup.php(104): require_once('/home1/winglein...')
+#3 /home1/winglein/public_html/NAANIS/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home1/winglein/public_html/NAANIS/system/library/db/mysqli.php on line 10
+[04-Oct-2020 18:01:42 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model marketplace/event! in /home1/winglein/public_html/NAANIS/system/engine/loader.php:89
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/admin/controller/extension/module/amazon_pay.php(100): Loader->model('marketplace/eve...')
+#1 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionModuleAmazonPay->install(Array)
+#2 /home1/winglein/public_html/NAANIS/system/engine/loader.php(48): Action->execute(Object(Registry), Array)
+#3 /home1/winglein/public_html/NAANIS/admin/controller/extension/extension/module.php(31): Loader->controller('extension/modul...')
+#4 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionExtensionModule->install()
+#5 /home1/winglein/public_html/NAANIS/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#6 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerStartupRouter->index()
+#7 /home1/winglein/public_html/NAANIS/system/engine/ro in /home1/winglein/public_html/NAANIS/system/engine/loader.php on line 89
+[04-Oct-2020 18:01:47 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model marketplace/event! in /home1/winglein/public_html/NAANIS/system/engine/loader.php:89
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/admin/controller/extension/module/amazon_pay.php(100): Loader->model('marketplace/eve...')
+#1 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionModuleAmazonPay->install(Array)
+#2 /home1/winglein/public_html/NAANIS/system/engine/loader.php(48): Action->execute(Object(Registry), Array)
+#3 /home1/winglein/public_html/NAANIS/admin/controller/extension/extension/module.php(31): Loader->controller('extension/modul...')
+#4 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionExtensionModule->install()
+#5 /home1/winglein/public_html/NAANIS/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#6 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerStartupRouter->index()
+#7 /home1/winglein/public_html/NAANIS/system/engine/ro in /home1/winglein/public_html/NAANIS/system/engine/loader.php on line 89
+[04-Oct-2020 18:02:23 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model marketplace/event! in /home1/winglein/public_html/NAANIS/system/engine/loader.php:89
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/admin/controller/extension/module/amazon_pay.php(105): Loader->model('marketplace/eve...')
+#1 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionModuleAmazonPay->uninstall(Array)
+#2 /home1/winglein/public_html/NAANIS/system/engine/loader.php(48): Action->execute(Object(Registry), Array)
+#3 /home1/winglein/public_html/NAANIS/admin/controller/extension/extension/module.php(54): Loader->controller('extension/modul...')
+#4 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionExtensionModule->uninstall()
+#5 /home1/winglein/public_html/NAANIS/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#6 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerStartupRouter->index()
+#7 /home1/winglein/public_html/NAANIS/system/engin in /home1/winglein/public_html/NAANIS/system/engine/loader.php on line 89
+[04-Oct-2020 18:02:33 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model marketplace/event! in /home1/winglein/public_html/NAANIS/system/engine/loader.php:89
+Stack trace:
+#0 /home1/winglein/public_html/NAANIS/admin/controller/extension/module/amazon_pay.php(105): Loader->model('marketplace/eve...')
+#1 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionModuleAmazonPay->uninstall(Array)
+#2 /home1/winglein/public_html/NAANIS/system/engine/loader.php(48): Action->execute(Object(Registry), Array)
+#3 /home1/winglein/public_html/NAANIS/admin/controller/extension/extension/module.php(54): Loader->controller('extension/modul...')
+#4 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerExtensionExtensionModule->uninstall()
+#5 /home1/winglein/public_html/NAANIS/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#6 /home1/winglein/public_html/NAANIS/system/engine/action.php(79): ControllerStartupRouter->index()
+#7 /home1/winglein/public_html/NAANIS/system/engin in /home1/winglein/public_html/NAANIS/system/engine/loader.php on line 89
