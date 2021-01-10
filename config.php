@@ -1,17 +1,17 @@
 <?php
 // HTTP
 //define('HTTP_SERVER', 'https://www.naanissupermart.in/');
-define('HTTP_SERVER', 'https://naanissupermart.in/');
+define('HTTP_SERVER', 'http://127.0.0.1:8000/');
 
 // HTTPS
 //define('HTTPS_SERVER', 'https://www.naanissupermart.in/');
-define('HTTPS_SERVER', 'https://naanissupermart.in/');
+define('HTTPS_SERVER', 'http://127.0.0.1:8000/');
 
 
 // DIR
-define('DIR_APPLICATION', '/home1/winglein/public_html/NAANIS/catalog/');
-define('DIR_SYSTEM', '/home1/winglein/public_html/NAANIS/system/');
-define('DIR_IMAGE', '/home1/winglein/public_html/NAANIS/image/');
+define('DIR_APPLICATION', '/root/NAANIS/catalog/');
+define('DIR_SYSTEM', '/root/NAANIS/system/');
+define('DIR_IMAGE', '/root/NAANIS/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
@@ -26,8 +26,8 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'winglein_nannis');
-define('DB_PASSWORD', 'Azhar@321#');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', 'aKshay@2020g');
 define('DB_DATABASE', 'winglein_nannis');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
